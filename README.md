@@ -1,5 +1,7 @@
 # Personal Portfolio
 
+Build from scratch - hold
+
 ### Tool Use
 
 Vite JS, React, Tailwind CSS
